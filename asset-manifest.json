@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/maximilliusgg.com/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/maximilliusgg.com/static/js/main.64c31b11.chunk.js",
+    "main.js.map": "/maximilliusgg.com/static/js/main.64c31b11.chunk.js.map",
+    "runtime-main.js": "/maximilliusgg.com/static/js/runtime-main.bdffd2cc.js",
+    "runtime-main.js.map": "/maximilliusgg.com/static/js/runtime-main.bdffd2cc.js.map",
+    "static/js/2.5678992a.chunk.js": "/maximilliusgg.com/static/js/2.5678992a.chunk.js",
+    "static/js/2.5678992a.chunk.js.map": "/maximilliusgg.com/static/js/2.5678992a.chunk.js.map",
+    "static/js/3.69466483.chunk.js": "/maximilliusgg.com/static/js/3.69466483.chunk.js",
+    "static/js/3.69466483.chunk.js.map": "/maximilliusgg.com/static/js/3.69466483.chunk.js.map",
+    "index.html": "/maximilliusgg.com/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/maximilliusgg.com/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5678992a.chunk.js.LICENSE.txt": "/maximilliusgg.com/static/js/2.5678992a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/maximilliusgg.com/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdffd2cc.js",
+    "static/js/2.5678992a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.64c31b11.chunk.js"
+  ]
+}
